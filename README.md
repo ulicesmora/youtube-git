@@ -2,6 +2,6 @@
 
 Hola soy tu amigo el hombre araña
 
-Agregando mas contenido al read me
+¿Quieres aprender _Kung Fu_? Entonces yo sere tu [maestro](maestro).
 
-Esta versión es para oficializar nuestra versión **1.0.0**
+![Flujo de Git](git-flow.png)
